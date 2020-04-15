@@ -2,7 +2,7 @@
 #### Trianed with NVIDIA GPU P100
 #### Data
 - COCO Dataset is used, check thier website for details [Link](http://cocodataset.org/#download)
-- Training and Test dats look like this:
+- Training and Test data look like this:
 <img src="/image/test_img.png" width="350" height="250"/> 
 
 #### Training
