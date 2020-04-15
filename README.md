@@ -13,10 +13,12 @@
 <img src="/image/train_end.png" width="450"/> 
 
 #### Testing
-- Prediction: Well.. it seems like my model perfers to use "on" :joy:
+- Prediction: Looks like my model is working well :grinning:
+<img src="/image/pred0.png" width="450"/>
 <img src="/image/pred1.png" width="450"/> 
 <img src="/image/pred2.png" width="450"/> 
 <img src="/image/pred3.png" width="450"/> 
+<img src="/image/pred4.png" width="450"/> 
 
 #### Conclusion
 Overall, with this project, I cannot underestimate the power of deep learning again.. 
